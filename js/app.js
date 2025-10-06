@@ -29,42 +29,42 @@ document.addEventListener('DOMContentLoaded', () => {
 
   const productDetails = {
     'chocolate-fudge': {
-      image: '/assets/product-1.jpg',
+      image: 'assets/product-1.jpg',
       title: 'Chocolate Fudge Cake',
       description: 'Our signature chocolate fudge cake is made with premium cocoa and layered with rich, velvety ganache. Each bite is a decadent experience that chocolate lovers dream about.',
       ingredients: 'Contains: Flour, cocoa, eggs, butter, sugar, dark chocolate',
       price: 'From ₹450'
     },
     'vanilla-cupcakes': {
-      image: '/assets/product-2.jpg',
+      image: 'assets/product-2.jpg',
       title: 'Vanilla Cupcakes',
       description: 'Light and fluffy vanilla cupcakes topped with silky smooth buttercream frosting. Perfect for any celebration or as a sweet everyday treat.',
       ingredients: 'Contains: Flour, eggs, butter, vanilla, sugar, milk',
       price: '₹50 each'
     },
     'cookies-box': {
-      image: '/assets/product-3.jpg',
+      image: 'assets/product-3.jpg',
       title: 'Cookies Box',
       description: 'A delightful assortment of our best cookies including classic chocolate chip, wholesome oatmeal raisin, and buttery shortbread cookies.',
       ingredients: 'Contains: Flour, butter, sugar, chocolate, oats, eggs',
       price: '₹300/dozen'
     },
     'red-velvet': {
-      image: '/assets/product-4.jpg',
+      image: 'assets/product-4.jpg',
       title: 'Red Velvet Cake',
       description: 'Classic red velvet cake with its distinctive color and flavor, topped with smooth cream cheese frosting. A timeless favorite.',
       ingredients: 'Contains: Flour, cocoa, eggs, buttermilk, cream cheese, butter',
       price: 'From ₹550'
     },
     'berry-tart': {
-      image: '/assets/product-5.jpg',
+      image: 'assets/product-5.jpg',
       title: 'Berry Tart',
       description: 'A buttery tart shell filled with smooth vanilla custard and topped with fresh seasonal berries. Beautiful and delicious.',
       ingredients: 'Contains: Flour, butter, eggs, cream, fresh berries, sugar',
       price: '₹400'
     },
     'custom-cakes': {
-      image: '/assets/product-6.jpg',
+      image: 'assets/product-6.jpg',
       title: 'Custom Cakes',
       description: 'Create your dream cake! We work with you to design and bake personalized cakes for birthdays, weddings, anniversaries, and all special occasions. Contact us to discuss your vision.',
       ingredients: 'Ingredients vary based on your preferences',

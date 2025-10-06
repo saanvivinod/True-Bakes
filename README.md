@@ -34,6 +34,8 @@ This is a static website that can be deployed to any hosting platform:
 - **Vercel**: Import your Git repository
 - **Replit**: Already configured with a workflow - just click Run
 
+> **Important Note**: This site uses relative paths (e.g., `assets/image.jpg`, `css/styles.css`) to ensure compatibility with both root-level hosting and subdirectory deployments like GitHub Pages. When adding new assets or modifying the code, always use relative paths without leading slashes to maintain this compatibility.
+
 ## Replacing Placeholder Images
 
 The site currently uses stock placeholder images. To add your real bakery photos from Instagram:
